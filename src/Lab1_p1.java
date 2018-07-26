@@ -1,3 +1,7 @@
+/* Shontinique Uqdah
+ * 07/03/2018
+ */
+
 import java.util.Scanner;
 
 public class Lab1_p1 {
